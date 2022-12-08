@@ -1,0 +1,53 @@
+{
+    "title":"Você e a Wandinha Addams seriam amigos?",
+    "questions":[
+      {
+        "id":1,
+        "question": "O que você faria se estivesse perdido em uma floresta?",
+        "options":[
+          {"id": 1, "name":"Hiperventilaria e entraria em pânico", "alias":"B"},
+          {"id": 2, "name":"Tentaria ficar calmo e encontrar um caminho", "alias":"C"},
+          {"id": 3, "name":"Encontraria comida e abrigo", "alias":"C"},
+          {"id": 4, "name":"Acho que eu gostaria de me perder em uma floresta", "alias":"A"}
+        ]
+      },
+      {
+        "id":2,
+        "question": "Se você só pudesse escolher uma arma para se defender, qual você escolheria?",
+        "options":[
+          {"id": 1, "name":"Machado", "alias":"A"},
+          {"id": 2, "name":"Faca", "alias":"C"},
+          {"id": 3, "name":"Arco e flecha", "alias":"A"},
+          {"id": 4, "name":"Um pedaço de vidro", "alias":"A"},
+          {"id": 5, "name":"Um bastão de baseball", "alias":"C"},
+          {"id": 6, "name":"Prefiro evitar conflitos", "alias":"B"}
+        ]
+      },
+      {
+        "id":3,
+        "question": "Como você reagiria se alguém invadisse sua casa?",
+        "options":[
+          {"id": 1, "name":"Ficaria em silêncio e escaparia pelos fundos", "alias":"B"},
+          {"id": 2, "name":"Lutaria até a morte", "alias":"A"},
+          {"id": 3, "name":"Me esconderia", "alias":"B"},
+          {"id": 4, "name":"Protegeria meus pets, antes de tudo", "alias":"B"},
+          {"id": 5, "name":"Tentaria me defender", "alias":"C"},
+          {"id": 6, "name":"Não faço ideia", "alias":"B"}
+        ]
+      },
+      {
+        "id":4,
+        "question": "Como seu irmão merece ser tratado?",
+        "options":[
+          {"id": 1, "name":"Frieza", "alias":"C"},
+          {"id": 2, "name":"Tortura", "alias":"A"},
+          {"id": 3, "name":"Carinho", "alias":"B"}
+        ]
+      }
+    ],
+    "results":{
+      "A": ["w1.png","Vocês seriam super amigos!","Uau! A Wandinha ficaria impressionada com a sua atitude. Se isso é um bom sinal, já não sei..."],
+      "B": ["w2.png","De jeito nenhum!", "Não, vocês não combinam nem um pouquinho... Só o olhar dela já te faria sair correndo, chorando."],
+      "C": ["w3.png","Ela te aguentaria...", "Vocês não seriam melhores amigos, mas ela seria capaz de te tolerar. Às vezes, ela até gostaria um pouco de você..."]
+    }
+  }
